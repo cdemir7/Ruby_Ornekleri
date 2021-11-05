@@ -1,5 +1,4 @@
 metin = <<MSG
-Nush ile uslanmayanı etmeli tekdir; tekdir ile uslanmayanın hakkı kötektir.
 MSG
 frekans = {}
 metin.split.each do |kelime|
